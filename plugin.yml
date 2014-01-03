@@ -1,0 +1,12 @@
+name: BukkitPluginTemplate
+main: NoLiver92.BukkitPluginTemplate.BukkitTemplate
+version: 1.0
+author: NoLiver92
+
+commands:
+    example:
+        decription: example command
+        
+permissions:
+    BT.example:
+        description: Permission to run example command
